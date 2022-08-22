@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FreeCoffee")]
-[assembly: AssemblyDescription("https://www.nexusmods.com/zzzzz/mods/???")]
+[assembly: AssemblyDescription("https://www.nexusmods.com/citizensleeper/mods/2")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BluesKutya")]
 [assembly: AssemblyProduct("FreeCoffee")]
